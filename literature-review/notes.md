@@ -35,3 +35,14 @@
 - provide additional resources
 - answer specific questions
 
+## Tools
+
+- GPT
+- Google Scholar
+- Google NotebookLM
+- Gemini (inc. Pro Research)
+- Elicit
+- Litmaps
+- Connected Papers
+- Research Rabbit
+
