@@ -14,3 +14,8 @@
     - Once you have synthesized the literature, you need to analyze and interpret the findings.This involves identifying gaps in the literature, inconsistencies, and areas for future research.
 6. **Write your literature review**: 
     - Finally, you need to write your literature review. This should be structured and organized in a logical and coherent way, with a clear introduction, body, and composition.
+
+
+## Tips
+
+- Be organized with the read literatures, then it will be possible to review these literatures again
