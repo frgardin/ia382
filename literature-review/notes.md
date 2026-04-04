@@ -26,3 +26,12 @@
 - Use a citation manager: Zotero, Endnote sws
 - Be organized with the read literatures, then it will be possible to review these literatures again
 
+## ChatGPT as a Tool
+
+- identify relevant search themes: ask for gpt to suggest search terms based on your reasearh question or topic
+- find relevant studies
+- evaluate the quality of the studies
+- synthesize the findings
+- provide additional resources
+- answer specific questions
+
