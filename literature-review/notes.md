@@ -16,6 +16,13 @@
     - Finally, you need to write your literature review. This should be structured and organized in a logical and coherent way, with a clear introduction, body, and composition.
 
 
-## Tips
+## Good Practices
 
+- Develop a clear research question or topic
+- Have a clear understanding of why is searching
+- Use multiple databases
+- Evaluate the quality of the studies
+- Keep track of your sources
+- Use a citation manager: Zotero, Endnote sws
 - Be organized with the read literatures, then it will be possible to review these literatures again
+
