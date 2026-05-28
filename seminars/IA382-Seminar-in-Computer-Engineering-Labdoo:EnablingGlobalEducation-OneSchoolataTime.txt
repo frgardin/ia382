@@ -1,0 +1,493 @@
+[00:00] And we are live on another Thursday seminar, and we are getting close to the end of
+[00:11] another series of seminars with a very relevant topic with a very distinguished guest.
+[00:20] We have a guest, Jordi, who is a scientist in careers of our, my personal interest and
+[00:32] artificial intelligence is at war.
+[00:35] Come back today, I convinced, and it was not so hard to convince him to not talk about
+[00:43] all these AI hot topics, but to focus on an initiative that I think it's
+[00:50] very inspiring. It's a social, exhibition activity for many years. It's called Labdo.
+[01:02] Jordi has presented these events like this. So it's a pleasure, Jordi, to have you
+[01:13] today with us, with our community in the University of Campinas in Brazil.
+[01:19] I can see many connection points to bring Labdo practices to our region.
+[01:29] And we live the other scientific networking AI conversation on the agenda.
+[01:37] And with that, and Jordi, I don't introduce all the full biographies of these
+[01:45] distinguished speakers like you. It's so long, and everyone can check online.
+[01:52] So let me stop sharing and give you the sharing rights, and thank you again for being here.
+[02:00] And let's talk in around 40 minutes.
+[02:04] Okay, thank you, Christian, very much for the introduction.
+[02:09] It's a pleasure to be here, everyone. Christian, we're just telling you about this program.
+[02:15] It's this class that you're doing, this seminar class. I think it's a great idea.
+[02:19] Congrats for the organization, and also I hear there's good energy coming into this, so that's
+[02:24] always great. And apparently you've done some homework coming into this, so I won't give you
+[02:30] an exam, don't worry. But yeah, looking forward to having this conversation.
+[02:34] And let's make it this an open conversation. And yeah, so let me just go ahead and share my
+[02:42] slides. That's going to help us drive the conversation.
+[02:50] This is not, for some reason it's showing the wrong, let me stop.
+[03:03] So I'm going to sec, let me try this.
+[03:06] Is it really showing the first slide? I want to show the first slide, but it's not
+[03:17] groomed up. Okay, wait a second. No.
+[03:21] Okay, I see. Yeah, I had the time to open. So let me just switch here.
+[03:28] That should do it now. Okay, so I'm going to now
+[03:31] open. I had it also open in the other browser. So you should be now hoping to
+[03:38] think it's like moving things around a little bit. Okay. All right, so yeah, so as Christian
+[03:48] was saying, yeah, my background is on communication systems. That's been my career, although these days
+[03:55] everybody is shifting to AI also. So that's almost like a necessity. Everything we do has AI in
+[04:01] it. And currently I'm in Qualcomm. I mean, the AI research division at Qualcomm. The focus there
+[04:10] is on open mental AI research. But my conversation today, and Christian actually,
+[04:17] when he reached out to me, he asked me to talk about a lot to him, which is a separate project,
+[04:23] separate the complete separate. And this is something that I have been doing now, maybe about
+[04:29] 20 years actually. So since the first trip that I did, although Labdo has been running as an official
+[04:34] NGO for 15 years. But yeah, and so this is something that I and the community have been working on
+[04:44] as well volunteers of this is nonprofit. This is maybe a way to a channel for us that are in the
+[04:51] high tech to also give give back to the community. The many things that we've been given to us.
+[04:57] Yeah, so think of this as a maybe different conversation. We'll talk about technology, we'll talk
+[05:01] about community and and and hopefully you find some connection and a way to get away from the day-to-day
+[05:09] routine of, you know, the transness of all the things that are happening in high tech. So
+[05:15] let me just jump into it and I'll start first saying where this where this is the project Labdo
+[05:23] start from. So the project starts actually, I mentioned 20 years ago, I was a student
+[05:32] doing my grad school and I was also involved in the startups. I was in the US, in West Coast,
+[05:38] in California. So and then I had the thought of doing something, you know, when you look at high tech,
+[05:46] really, you wonder, you ask yourself, who are you helping some way? Who are you working for,
+[05:52] or when you develop technology? Who is it benefiting? Of course, eventually, the whole humanity can
+[05:56] benefit from technology, right? The technology is like internet and so on. But at the beginning, only the,
+[06:01] you know, the first users of the technology benefit from taking from the new inventions.
+[06:09] So I wanted to do something about, you know, bringing the things that we had to a school that maybe
+[06:16] didn't have it. And so what I did is I collected laptops from the university, from my colleagues,
+[06:22] from my classmates, laptops or from their parents or local businesses that laptops that no longer
+[06:30] people no longer use. I installed Linux in them and then I traveled to Guatemala for a summer,
+[06:36] summer 2005. And then I deployed the laptops in the school. So from California here,
+[06:44] down to Guatemala. And this was the deployment of these laptops in this school. And then for that
+[06:50] summer, one of the best summers of my life, I should say, I was in that school showing the kids how to use
+[06:58] the computers. Obviously, for these kids, they had never seen a computer. There was no internet
+[07:03] connection. So we got a connectivity from Tel-Wet, California, Guatemala, the point, as in West
+[07:08] Gulf. And we were able to connect them on a DSL line. And then that summer, I also traveled around,
+[07:15] visit other schools. Coming back from that shape, you thought, you think you're going to be answering
+[07:22] questions, but you actually get with more questions than answers from that tree.
+[07:27] And obviously, going back to California, the contrast was amazing. This school really don't have
+[07:34] even the most basic things like bugs or pencils or blackboard. And here we are back to the US.
+[07:45] We've decided that we have so much access capacity with everything. So there's got to be something
+[07:48] that we could do. And then I thought about the question, how we can replicate this trip that I did
+[07:56] not ten times or a hundred times, but why not a thousand times or why not even more times?
+[08:01] How could we scale at? So when you look, for instance, at networking, we talk about the
+[08:05] scalability. So how do we scale at? And then that's the thought that I had is that instead of me
+[08:12] traveling, what I could do is program a platform that would allow others to do this trip in a coordinated,
+[08:18] globally coordinated fashion basically. And that's what I decided to do. Because I knew how to
+[08:24] program. I decided to spend my time as a volunteer. I was maybe sometime here and sometime there.
+[08:33] I had my laptop and I kept programming a platform that would allow people to coordinate this globally and
+[08:39] allow anybody who no longer uses a laptop. Maybe you have a laptop sitting there in your drawer,
+[08:45] piling up dust, that there's a way that we could bring it to school somewhere in the planet in a way
+[08:51] that it's a scalable zero cost just through enabling global coordination. And that's what really
+[08:58] Labdo is. Labdo is a platform that allows you to coordinate that. So you talk about social networks.
+[09:05] So instead of being a social network where you share pictures is a social network where you share
+[09:08] your time to volunteer for a cost of and the belief that the case one should be a rehearsal time.
+[09:14] So since then, I'm just going to show up for a projection. Since the platform was launched
+[09:21] for the first time in 2000, like a few late, you know, 2009, 2010 version one of the platform,
+[09:26] then the project started basically growing as people started using it. And I'm going to show
+[09:31] a projection of some of the initial stages, how it expanded. It expanded in Central America,
+[09:36] Africa and Europe. So here you have activity, which means both donors of laptops
+[09:45] and then recipients of the laptops. Through the Labdo platform, we can extract all this information.
+[09:51] Basically, so when a laptop is donated, you attach a QR code to the laptop and that allows you to
+[10:00] know where the destination of the laptop, so that brings transparency. So we can actually reproduce
+[10:06] exactly how the network grew. So I'm just going to run through some partial simulation here.
+[10:13] Eventually, now this is where we are today, more than 3,000 schools in 155 countries reaching
+[10:22] to more than 1 million students. Now, these are big numbers, of course, but what I like you to take
+[10:28] away from this is that this only made possible thanks to people's collaboration, people getting together
+[10:33] and thinking, yes, we want this, you know, we think universal education, you know, getting access
+[10:40] to education is important. I want to contribute five minutes of my time, one hour, maybe I'm traveling,
+[10:48] and I want to bring that laptop, etc. So this is all made possible, only not because of me, of course,
+[10:55] but because of thousands of people who made this possible. And this is really the message that I
+[11:00] wanted to bring here. So through technology here, bringing to a platform, we can kind of coordinate
+[11:07] globally and overcome a challenge together. That's one of the principles here.
+[11:14] Okay, now let me show you some of the pictures because I sometimes, you know, pictures were more than
+[11:19] any word that I can speak, just to give you some examples of what it means to give a laptop to a child
+[11:28] or to a student or to a refugee or to somebody who really needs that for education.
+[11:33] And so you have Thailand, so these are some random pictures, Togo, Tanzania, Sri Lanka,
+[11:44] India, Guinea, flowers, Ghana, Pakistan. So Pakistan, a place where sometimes girls are not
+[11:54] allowed to, not sometimes, but actually they are not allowed to go to school, but we can also reach
+[11:59] them for collaboration. And just to bring a big more momentum here, maybe I'll just share for a minute,
+[12:06] a video to give you a sense of it. And then we'll talk about how the laptop platform really works.
+[12:11] Okay, so let me know if you don't hear the audio, I'm going to see what you do.
+[13:41] All right, so hopefully that gives you a sense of the notion of project, community movement.
+[14:07] And the possibility is that our head of you, also, as you're going to this journey of
+[14:14] high tech and science, right? Think about it's like just with the ability to program
+[14:24] and with the knowledge that you gain, the leverage that you can have and ultimately how you
+[14:29] get impact your communities doesn't have to be like a global community, it could be something local,
+[14:34] a community, local community, right? But you know, coming into this call, Christian,
+[14:40] Louise and some of us were just chatting before coming here. Christian mentioned this hour here
+[14:45] is one of my favorite hours in the week. And I can sympathize with that because of the energy
+[14:52] that the students bring and all the meeting people and all that. So yes, we are passionate about
+[14:59] our work, you know, we are maybe engineers, scientists. And I have to admit, I'm also passionate
+[15:05] about my work. But I also wanted to share that for me and for the community also a lot is the way
+[15:15] it's something different. It's the way to kind of give back what the society is giving us, right?
+[15:20] We have the privilege to get an education. You're in the grad school program going for a master's degree
+[15:26] or a PhD degree or undergrad, whatever. That is precious, right? And so the ability that
+[15:33] and the knowledge that you gain from that and the skills that you will learn from that, that
+[15:37] if you also find a way to kind of share it back, but then that becomes very special. So I'll say
+[15:45] for me, like for the week, which is also very intense or work-wise, but and with the things that
+[15:51] we're passionate about, I really very much love to be with my team and having all these technology
+[15:59] conversations and advancing technology, but also having that phone call with an NGO is also very
+[16:05] special because that's where we connect also at the human level, where you are thinking about
+[16:10] maybe somebody else, right? And especially because we're looking at here at the education. So
+[16:17] some food for thought as you're going to also your own journey, that there are ways that we can
+[16:22] also connect back to the community and I do hope that you are able to do that because it will make
+[16:29] you feel nice and well connected and with a sense of purpose as well. So with that personal kind of
+[16:37] shame, I wanted to maybe just tell you how really love do works, okay? So a couple of facts,
+[16:46] so to begin with every year, the world buys about more than 400 million laptops and tablets
+[16:54] globally, so it's a huge amount of devices that we buy, so a similar amount of devices get
+[16:59] therefore get replaced because usually when you buy a new device, you're living behind another one,
+[17:04] right? So we're talking about billions of devices that go unused with a lot of potential, right?
+[17:13] Pack number two, people really despite what we might say sometimes in the news, really we do have good
+[17:21] will and care about others and feel well when we help others. So these two are really the building
+[17:29] blocks of laptop, the two pillars. The first one enables the circular economy, enables the
+[17:36] approach that is scalable because we don't need to consume more technology, we don't need to buy more
+[17:42] technology or produce more technology, we can reutilize the technology. The second one is just
+[17:49] leveraging all the good energy that humanity has to basically do something and focus on a good mission.
+[17:55] So with this combined with a platform, so technology, because laptop at the end of the day is
+[17:59] a platform allows to bring these two resources into action and enable the global collaboration.
+[18:08] So yeah, so the solution here is the social network to unlock both millions of access laptops and tons
+[18:14] of access Goodwill. It's a non-profit project, none of us get state for this. In fact,
+[18:20] we eliminated money from the organization, we do not accept money.
+[18:29] With the exception of there's only one cost which is the platform itself, the platform runs in
+[18:33] Amazon Cloud. So there's a yearly cost that we pay through some small micro financing, but we decouple
+[18:43] from sort of the funding system and that's why I love this always scalable and resilient even to
+[18:50] economic crisis because we don't need funding to run. We just need people who really believe in
+[18:55] the mission and in access capacity, laptops that people throw away and that's always there, right?
+[19:02] In fact, whenever there is a crisis like COVID or some economic crisis or something that happens
+[19:11] the world, laptop tends to accelerate. It's kind of the other way. Typically, NGOs maybe
+[19:18] unfortunately because when there's a crisis, then the funding gets cut and so that hurts
+[19:25] the people who are the organizations that most need that funding because laptops doesn't
+[19:32] is decouple from the fundraising, from the funding aspects. We're resilient to that and actually
+[19:40] we do better when there is a crisis. The reason is because when there is a crisis, two things happen.
+[19:45] One is that more people need help which is demand, demand increases and also when there's a crisis,
+[19:56] more people are willing to help. They realize about the situation and then you have people willing
+[20:01] to help. So then the supply which is going to help grow and that's actually
+[20:06] accelerating even more. So we saw this with COVID that there was a lot of need for laptops because
+[20:12] people, students were getting left behind without a computer, not being able to connect and then people
+[20:19] really wanted to help. So that's sort of some of the properties of the laptop platform.
+[20:27] So to summarize, it is a nonprofit project, it is collaborative, it is fully distributed,
+[20:32] so there goes the analogy with communication systems. There is no central point,
+[20:39] it's a driest point so it's fully distributed. The code of the social network is open and
+[20:43] free. It's a GPL license, you can actually access, you can see exactly the code that we run in the
+[20:47] platform, it's open source. Anyone can participate as a volunteer. If you want to program also,
+[20:56] you can help program the platform. If you want to bring a laptop to school, you can do that.
+[21:00] The platform is designed to be zero cost and that means two things. Zero cost, economic cost,
+[21:10] as I mentioned, there is a lot of stuff for free that we don't, it's all based on the circular
+[21:15] economy, so there is no economic cost, but also zero cost in terms of the emissions. So it's designed
+[21:21] so that we in the mission to bring a laptop from say one country to another, say from Paris to
+[21:31] to Kampala in Uganda. So this journey to bring the laptop is zero cost also environmentally.
+[21:40] It's designed so that we don't generate additional emissions. How do we do that? So, for instance,
+[21:44] the transportation, we repurpose people who travel, so if you go to the laptop platform and
+[21:53] you can actually, you can actually announce your trip and then bring a laptop to the next destination,
+[21:58] basically, so that can be coordinated through the platform. So again, every action in laptop is
+[22:04] designed in a way that doesn't generate additional emissions. We don't buy a new laptop because that
+[22:09] would generate emissions because you need to produce a new laptop, we repurpose laptops, etc.
+[22:15] And again, we don't require any funding, which means that we are resilient to global economic
+[22:19] crisis. And also the fact that we don't require funding means from a culture standpoint, for the
+[22:23] acquisition standpoints means that everybody who does love do is very clear on why we do it.
+[22:31] We don't do it because we're getting paid for this because nobody's getting paid. So
+[22:36] we do it because we believe in the fact that every person in the planet should be able to access
+[22:42] education. So this no funding property of the system basically helps a lot in
+[22:53] bringing this culture into the team that everybody knows exactly what we do. There's no confusion
+[23:00] basically. Or unfortunately, there's a lot of headaches not having to do with money.
+[23:04] Okay, let me talk about another concept. This is a concept that I used to talk quite a lot at the
+[23:09] beginning of the project years back. This is a book called The Welfare of Networks by Yokey Bangler,
+[23:16] maybe you've seen. But it tells you how you can basically achieve large missions by breaking the
+[23:25] project down into small pieces basically. And then distribute the small pieces away so that people
+[23:33] can help and then bring it together to actually create a larger project. An example of how the
+[23:39] Welfare of Networks works is the Wikipedia. The Wikipedia is an example where instead of having
+[23:44] somebody who writes a whole encyclopedia, which would take a lot of effort as it was done
+[23:54] traditionally in the past, the Wikipedia actually, what it does, it breaks down the big problem
+[23:58] into small. And then says, you just write one article and then somebody else writes another article.
+[24:03] And by collaboration with millions of people, then you can build a large encyclopedia.
+[24:09] So this concept referred as the Welfare of Networks is an embedded concept into the
+[24:16] latitude platform. What we do in particular is break down the task of bringing a large volume
+[24:24] of laptops from one place to another by decomposing into small steps and then leveraging people's
+[24:30] collaboration. So we said that the distance from a laptop to a student or a child is four steps.
+[24:38] Step one is collecting the laptop. Somebody donates the laptop. Step two, you sanitize the laptop,
+[24:44] that means we eliminate all the information from the laptop. Of course, the laptop has personal
+[24:48] information. It's very important to to eliminate information. We do a shredding operation in
+[24:54] in the Linux OS. So we put Linux and we shred the operating system and that's how this.
+[25:00] And then we also install educational and an image which has a lot of educational content.
+[25:06] So we maintain an image based on Ubuntu, which converts a laptop basically in a library,
+[25:13] effectively in a library, which contains a hundred gigabytes of educational content, which that
+[25:21] includes, for instance, the whole Wikipedia goes into the laptop. The whole kind of academy videos
+[25:27] go into the laptop, UNESCO content, copy left books. So effectively, we convert the laptop into
+[25:34] an educational machine into a library that you can deploy them at school. Then step number three,
+[25:42] you keep it until the traveler is available. And then step number four, once the traveler is available,
+[25:50] then it transports that laptop, bringing it into a luggage, basically, and then delivering it to
+[25:58] the school. Effectively, what these means is that we have collaborations with hundreds of engineers
+[26:02] that are going to these destinations that are already operating in these destinations because they
+[26:10] are going there for summer trip to school or they have some weather sanitation project there
+[26:16] or something. And then they just piggyback on that, their laptops. When they travel, they bring
+[26:22] their laptops, right? So that allows us to actually grow. This is an snapshot of some of the routes
+[26:29] that we have active that allows us to basically carry the laptops from one place to another
+[26:35] just through collaboration. Again, so this is a, we call a CO2 neutral transportation system and also
+[26:42] zero economic cost, right? So this way, we ensure that the laptop can reach the station without
+[26:49] generating additional emissions just through collaboration.
+[26:54] So if you go to the other platform, you can play with it, but you have some of the features here,
+[27:03] you have a place where there are teams where you can create a team and talk with other volunteers.
+[27:12] Due to this, for instance, is where you can register a trip. And then if you are traveling,
+[27:19] then you can register a trip and announce it. And then if you have a hub nearby, then you can
+[27:24] collect the laptop and bring it to the next step. Everything is done transparently. So the donor
+[27:30] receives messages when the laptop arrives to the destination. You can see the pictures of the laptop
+[27:37] at the destination. This is very important, again, for transparency and accountability reasons.
+[27:42] If you give an NGO $100, it's very difficult to trace that money and tell you that money was used
+[27:50] for these colors, right? That's why we also don't accept money. But if you give an object like a laptop,
+[27:59] I can put a tag, a QR code, and then I can send you notifications of, you know, right now the laptop
+[28:07] has been sanitized. Now the laptop is traveling. Now the laptop reaches destination. This is cool.
+[28:13] And then you can click on a photo album and then recognize your laptop visually. And check that it's
+[28:21] indeed that's your laptop, right? So this ensures that the platform is healthy, resilient,
+[28:26] everything is open information. So you can access to, you know, at any point in time where the status
+[28:35] et cetera. So, and so that's what we can enable to do the platform.
+[28:42] Okay, now I'm going to touch also on the concept of hop. So in laptop we have like
+[28:53] four main objects. We have the laptops or tablets that we call them dutronics, laptop electronics.
+[29:01] We have the schools that receive the laptops or the devices. We call them adobe latches, educational
+[29:08] villages. We have the the trips that carry the laptops. So travelers, we call them dutrips as in
+[29:16] laptop dutrips. And number four, number four, we have hops. Pops are places in the planet where people
+[29:22] get together. They collect laptops from their local community. They sanitize and get them ready to be
+[29:29] transported to destination. The destination could be somewhere far distant or could be somewhere
+[29:37] local. And again, this could be really anywhere. And that do we don't have north help in south or
+[29:45] reach helping poor. It doesn't work like that. So we break that startup. You could have
+[29:52] you could need help anywhere, like for instance, I'm from Barcelona. So we support local projects
+[29:58] that are in need also because there is also need in my area. There could be a refugee association or
+[30:06] it could be some family that some school that has families that don't have access to technology.
+[30:12] So really, you could find projects locally or internationally if you're traveling, you're interested
+[30:18] so that that is totally up to you. So with hops, you can basically see some of the activities that I just
+[30:28] mentioned, collecting laptops and advising them and coordinating delivery to schools. Through the
+[30:38] laptop platform, you can manage your dashboard and you can get to see your inventory, get to know which
+[30:43] countries you are impacting. You can also get to know how many CO2 emissions you have saved, etc. So
+[30:55] so let me just switch gears a little bit. I'm going to show you some pictures of examples of
+[31:00] hops. So these are people who are doing things in Europe. This is Mexico, this is California,
+[31:06] I think this is Switzerland, Germany, so different places. I think this is Spain, etc. So
+[31:14] we welcome anybody to actually create a hop. We also have different workflows. So for instance,
+[31:20] we have another workflow, we have a workflow for companies, what's called CSR, corporate social
+[31:24] responsibility. So companies are often also very interested in showing to the world that they're
+[31:33] also doing goodwill actions and so they can either donate laptops or they can also create their own hops
+[31:41] because laptops can report things through the platform. You can report your impact. You can report
+[31:47] how many schools you're helping. You can report how many students you're helping. And you can also
+[31:52] report how many CO2 emissions you're saving from the planet because every time you expand the
+[31:57] level of a laptop, you can actually compute how many CO2 emissions you're saving. That can go into a
+[32:02] report that companies like to put in their final year report and announce that all the goodwill
+[32:08] things that you're doing. Now another workflow is what we call laptop for cities, which is something that
+[32:16] our wife and also implement in their own village, in their own hometown. This can be done in
+[32:20] collaboration with your hometown. For instance, what we do is we partner with libraries,
+[32:26] public libraries that become entry points of the circular economy. So the nice thing about libraries
+[32:31] that the libraries have a lot of hours open to the public. They even open on Saturdays. So then
+[32:39] citizens can go there and bring their laptop. So there's a drop-in point where they can drop their laptop
+[32:44] and there's a nice connection between libraries that try to promote education and reading and all that
+[32:49] with the laptop cost, which is about also education. So you can partner with your local libraries,
+[32:55] propose them to create a hop. And then so that then this the citizens can actually bring
+[33:02] the laptops to the library and you can announce that. And then if you have a hop, you can set
+[33:09] up the laptops and then deliver them to school. So yeah, so these are examples of when you put
+[33:16] in the library, you put a poster like this so people know that there's a drop-in point there, etc.
+[33:23] Okay, so I touched on some of the things. You're welcome to visit the laptop platform and play with it.
+[33:31] But just to wrap up, I have one finalist, right? And I thought of something that maybe to take away,
+[33:42] which is if you look at the current context, sometimes you may sort of wonder with all that's happening
+[33:50] with the AI and even at the global landscape, all the uncertainties. Things are moving very fast
+[33:59] in many different fronts. So yeah, we're living in a complex global landscape.
+[34:05] And the thinking here is that more than ever before or we need initiatives that emphasize what
+[34:16] unites us, excuse me, and that poster trust across communities. So the belief that we have more
+[34:26] in common than what the differences that we may have. And also the importance of building trust
+[34:35] networks. I think of these as two important pillars, even more today, in the context where we are,
+[34:43] where we need to face global challenges, like how we're going to deal with AI and how we're going
+[34:47] to deal with climate change and all these things, right? And so the idea that when you look at something
+[34:56] like lagdew, for instance, lagdew is made possible, excuse me, because this broad consensus among,
+[35:05] as I would say, that we would all agree, that education is good for all. That a world where education
+[35:13] is a free right for any person in the planet is something good. And it's something that, no matter
+[35:20] what your ideology or where you come from, that we can all agree with, right? So
+[35:25] broadly speaking, right? So the belief that there is a lot of things that we have in common that can
+[35:31] unite us for a common goal. And number two also, that is, it is possible to first trust. Despite what
+[35:40] we see in the news from times or the difficulties that the current leaders have in getting along with
+[35:46] each other, right? Labdew itself, and lagdew is an example, but I don't want to just say lagdew because
+[35:53] there are plenty of examples that show that it is possible to build things based on trust.
+[36:01] And the fact that in lagdew, I'm collaborating with people that I don't even know, but I know that
+[36:06] we all believe that this is a good thing and that we want to make it happen. Then it's what drives us,
+[36:12] right? So yes, this is indeed very possible. And then what I like to invoke here
+[36:19] is you all, Harari has a very nice interesting way to explain the interplay between democracy
+[36:25] and technology, which I think for some of you who are in the high tech also, the science and technology,
+[36:32] and even the communication systems may find this an interesting connection, hopefully. So
+[36:40] when you talk about democracy, larger scale the democracy is something that is actually new.
+[36:47] In the past, larger scale democracy has never been possible simply because we didn't have the
+[36:54] means to implement it. So if you look back in history, you had societies like the city stays in
+[37:00] Greece or Rome, that were examples of democracies, but only because they were small.
+[37:07] We never had examples of democracies with more than like a million people or a hundred million
+[37:13] people like we do have these days. And this has been made possible thanks of technology.
+[37:19] So in particular, thanks to communication, the fact that we are able to communicate enables
+[37:24] democracy at the scale because in the end, democracy is a conversation as opposed to a dictatorship,
+[37:30] right? Where there's no conversation. So when you look at technology, so we're going through,
+[37:35] say, the print, the telegraph, radio, television, internet, this has enabled us to progress
+[37:41] and to enable an increasingly better, more refined democracy because then we're able to communicate,
+[37:48] discuss things in the public and organize at the scale ourselves in that conversation which is
+[37:57] democracy, right? Now we're adding AI to it, which is something very unique and different because
+[38:03] AI itself is a nation and it kind of puts itself in the conversation among us, right? So now
+[38:12] we're not just talking with humans to human. We're talking human Asian, Asian humans. So this
+[38:17] something that we're putting in in between that is affecting also our communication.
+[38:22] The bottom line is that each of these innovations creates a democracy lies on top of this
+[38:31] technology layer here. So in working also the OSI layers from communication systems, we have
+[38:37] layering architecture. So indeed, democracy is made possible thanks to the knowledge. So it's
+[38:41] overlaid on top of the technology. But every time there's a change in technology, this creates
+[38:46] sort of an earthquake on democracy, right? And so democracy needs to read that basically.
+[38:52] The nice, the nice, the good thing is that democracy is also very resilient and it's able to learn
+[38:58] new ways to adapt and traditionally has gotten better and better as time goes by.
+[39:03] Now, with AI, it's something that we still don't know what will happen. But I wanted to bring
+[39:10] this perspective because we live in times that there are very uncertain also that we don't understand
+[39:16] also what we might be creating yet. But think of this, when you think of this from a historical
+[39:24] standpoint, it's just another earthquake on the technology layer that's shaking up democracy and
+[39:30] needs to be re-adjusted. How it's going to be re-adjusted depends on us. And that's a thing that the
+[39:35] key element. So it's up to us how we're going to be diving these. And just to wrap up the conversation
+[39:43] here, what I would like to say is that one thing that can help us, I think, going into this new era,
+[39:50] where we're adding these agents in between our communications is to emphasize what really
+[39:55] unites us and to continue to strive for building trust among ourselves. It could be doing things
+[40:05] like Labdo, or it could be doing many other things that are available basically. So, and with that,
+[40:11] that's I think concludes my talk for now and open for questions.
+[40:16] George, thank you very much for your great story. I was taking out here the comments,
+[40:29] the questions in preparation of our students. And let me start with a slide bad news that
+[40:38] the YouTube streaming for some reason did not start up. So I didn't have the agent to validate
+[40:47] so because I'm sure I clicked here, but it's recorded, so I will post it in the same series. No one
+[40:54] will notice, except for those who were waiting for the live streaming. Okay, my bad.
+[40:59] Yeah, and that's a first point I wanted to mention. And I think you were very,
+[41:11] very timely to bring the reflections that you just brought. And they are long standing
+[41:18] very hard to solve. And Labdo is an example of how a valuable key value things should be
+[41:28] pursued in these times of crisis or very conflicting times. Okay.
+[41:36] Good. Let's see. Let me see if there is some comment here in our chat note, or if Jefferson wants to
+[41:45] start. If not, I have a, I will share with you the spreadsheet. I can also start here showing you
+[41:53] because you show some interesting in what the students do. And this is how it looks like. Okay.
+[42:02] So at the end, they come up with this at least one question, but they have elaborated
+[42:10] a small set of papers and they identify correctly your own publications are expected.
+[42:22] It's always interesting how how students embrace and the new generations embrace these new
+[42:28] technologies. And they need to have the tools, the computing tools, they access to AI.
+[42:36] This is my personal question. Okay. I know it's a little bit
+[42:41] beyond the scope, and I will go back to the scope of Labdo. But the AI
+[42:47] access introduces potential. So how to facilitate access to AI models that are more capable?
+[42:57] At the end, it won't be just access to the infrastructure, but it will generate some
+[43:02] divide if you can only access a poor model and others will access very potential and costly models.
+[43:11] Do you see also big movements potentially happening? I know you have touched this somewhere,
+[43:18] but this strikes me so much lately.
+[43:26] Yeah. So yeah, I do think that it's important to when you have new powerful technologies to
+[43:36] that this thing has been as much democratized as possible. And indeed, I think that's also the case
+[43:48] with AI that we're going into a world where we're going to be existing with AI. But there are different
+[43:59] ways we can take, different paths we can take. And I think that
+[44:06] what we do need to do is to choose a path where AI is as much, we democratize AI as much as possible.
+[44:17] What I mean by that is that as many developers, for instance, can actually participate in developing
+[44:24] models. And that, so yeah, for instance, right now, the most powerful models are running on
+[44:33] very expensive data centers, GPUs that only very big corporations can actually access to.
+[44:42] And so that's challenging for somebody who wants to do research at the university level or as a
+[44:48] developer. So it's important that we are able to also unlock the ability to do research at the
+[44:54] smallest scale. And I think that connects with what we've got the edge, right? The edge AI.
+[44:59] Edge AI means that AI runs as well to run on small devices, which could be your own laptop,
+[45:06] your own phone, your own, and so yeah, like doing research at the level where we
+[45:16] enable these models that are people of doing good things that they can actually run on devices
+[45:26] that people can access to. But yeah, so that's in some part of it. I agree. And there are lots
+[45:38] of improvements in low cost, compact AI that will make at the end it's about the job. So if
+[45:48] a little bit depends on what you want, if it can give you some short task or a very large compute
+[45:57] intense. Good. Here are a couple of things. They want one that is about the trust, the chain of trust
+[46:10] are now linking to technologies. Have you seen opportunities of adding or needs to the chain
+[46:21] of trust inside the lab do? I can't imagine things like like blockchain or can you comment on
+[46:30] opportunities where you saw research in related areas that you can bring to the concrete
+[46:38] problem. And then the trade-offs were used. You see, okay, we need to go to the field to the
+[46:45] course. So we need to take some decisions that are trading off with. It's not the perfect solution,
+[46:55] but it's a good enough solution. And if you could exemplify it with some concrete example,
+[47:03] so that our audience sees the challenge of taking decisions that need to be practical, pragmatic,
+[47:14] while giving of some optimal solution from a technology scientific perspective. And I think
+[47:25] the best person to try to bring some example of these type of situations.
+[47:36] At the high level, when you're looking at the project, say like lab do, although this could be
+[47:42] applicable to other domains, you have two broader strategies. What is following a centralized approach,
+[47:49] the other is following a decentralized approach. And again, we see this pattern also in communication
+[47:53] systems, right? So when you go centralize the approach, yeah, you have full control of the system,
+[48:06] but if talking about trust, in the context of trust, which I think is the question here is about trust,
+[48:16] if there's something malfunction in the system, then the whole system can collapse, right?
+[48:24] Now, when the system is decentralized, it's something go wrong, the system is more resilient.
+[48:39] And so the idea here, and this is part of the reason why lab do has, I think, succeeded in
+[48:46] scaling up, because there were other projects also in the past, but they were following a centralized
+[48:52] approach, right? And in the case of lab do, so what number one is everything is open in the platform,
+[49:04] all the information is available open. You can create a lab do account as a volunteer,
+[49:09] even if you don't have a lab do account, you can check versus status.
+[49:16] And so if there is a mistake in the system, then multiple eyes can look at it and check it,
+[49:23] oh, there was a mistake, let's correct that. It works very similar to the wealth of networks
+[49:28] concept that are from Yuckel Bangler that I mentioned in my slides. It works very similar to how the Wikipedia
+[49:34] works. Wikipedia is resilient because yeah, maybe somebody can make a mistake in an article,
+[49:42] whether in good intentions, or not so good intentions, that doesn't matter, it's a mistake,
+[49:47] or some, it's a statement, but because there are multiple people who, because it's an open platform,
+[49:52] then the platform tends to converge to a state where actually things get corrected
+[49:59] in a matter of time, basically, because multiple people go there and check, or this is an
+[50:05] incorrect, so let's correct it, right? So lab do operates under the same principles that,
+[50:11] and so what you're not having a system that is, of course, you're not going to be 100 percent
+[50:14] correctness all the time, but it's a stable at the high correctness level because
+[50:20] information is open. Multiple eyes are checking when a laptop is traveling.
+[50:25] It's not just one person that knows about that, it's multiple persons, there's the NGO, there's
+[50:30] the volunteers, there's the hub, there's the donor who's tracking, and if something
+[50:37] part of the state is incorrect, something then it can be corrected.
+[50:43] And the other thing that I'll add to this is that, in fact, this is done, I think,
+[50:49] my thinking is that this is also by design and intentional because it's a good thing that we're
+[50:54] aspire to do to build a system that we can nurture trust, actually, that I can do things just
+[51:03] because that's the good thing to do and enable that trust. So promote trust, promote trust,
+[51:11] of course, you need a system that has the checks and balances, that has that transparency in all
+[51:18] these, but then ultimately it's a human act that I trust this person.
+[51:26] But when I enable that trust, that actually is very powerful because then we not only just
+[51:32] give education to a child, which may be the best gift you can give to a person, but also
+[51:37] you're learning to trust, you're building trust. It's an asset that is not tangible but it's
+[51:43] very important, right? You're making friends, you're building trust, you're getting confidence in
+[51:49] that we can trust each other, we can make this work together, and that's a very important outcome
+[51:55] of this transaction overall itself. So yeah, I think that's great. Trustworthiness, we know how
+[52:05] to trust the AI, it's a matter, but it's complicated that spans over all our domains. I love your
+[52:16] analogy with computer, like distributed, there's a centralized, those that have worked with
+[52:22] software-defined networking controllers, you know the trade-offs and distributed systems, it's a
+[52:29] classical question, and it's a great lesson that you bring with LabDo model in scaling, in an
+[52:43] effective way at the end, it needs to be effective. I have a couple of other questions, like if there
+[52:55] is some insight of what you would have done differently if you knew. Now, how many years have
+[53:02] been, and now effective since you had this visioning, but it was, so 15 years or...
+[53:11] That first thing was in 2005, so it's been... 2021?
+[53:17] And then the project itself was launched, 2009, 2010, so you're running for now, 15, 16 years?
+[53:28] So if you knew, if you knew now, how things have evolved, if you could have come back to the
+[53:34] Jordi at the time with the dreaming or the insights of Jordi in 2026, do you think that could have been
+[53:45] some decisions too fast to move something more smoothly, or streamline, or avoid some, is there
+[53:56] something that you have not told so far that could be a lesson for everyone?
+[54:05] Yeah, so when you go on a journey, whatever you do, like a project, or
+[54:14] you imagine things in a certain way, and then they surprise you.
+[54:24] And I'm sure there's a lot of things that we've learned that we had known before,
+[54:30] then yeah, that maybe would have helped in some way or another.
+[54:36] Like I cannot pinpoint a single thing, Christian, but if I need to think about that actually,
+[54:45] but yeah, I can think of several, but which one would I now prioritize, right?
+[54:52] So the point, I guess to me, or maybe is that, yeah, you imagine things that can happen in a certain way,
+[55:05] but then they don't happen in certain way, they happen differently, but the way they
+[55:10] happen differently, they surprise you. So for instance, one thing, I remember at the beginning
+[55:16] thinking, okay, this, this I'm going to envision, this is a project that anybody in the planet can
+[55:23] participate, and then it's going to grow organically, decentralized and all this, and maybe for instance,
+[55:34] you thought that companies could, could, from day one, participate and even tag the laptops out
+[55:40] of the factory and things, and then you realize that that's more complicated, right? So an element
+[55:47] of being naive, I think, is definitely was part of the story, but I think that being naive actually
+[55:57] was good because it allows us to think things that maybe we thought this is impossible,
+[56:05] right? But then you were able, somehow it happened, right? So don't be afraid to be naive in some
+[56:12] of these things in thinking about things, like I got the comment, wow, this is not going to scale,
+[56:19] this is that, right? That's tonight, it is not, you can do this. And then I'll just say one thing that
+[56:25] also surprised me, which is that in doing this, there was a lot of byproducts in this process,
+[56:33] that I thought the main outcome was giving education to students or kids, which is of course
+[56:42] an important thing, but the, what I realized is that a project like I love to generate a lot more
+[56:50] things than that, for instance, and we have many examples of people who have been empowered,
+[56:55] you know, by participating in love do, and then love their talent. So we have, for instance,
+[56:59] a professor in Spain who's doing love to the school has won the national award on solid idea
+[57:10] from the Spanish government. We have a person in Germany who was very tired, a former CEO from
+[57:18] a company, and he had a health problem. He could not work, but he reached out to me and say,
+[57:27] I can do volunteer work, and I know I can make love to fly. And so this person has been doing
+[57:35] for years. As mobilized the whole country in Germany, he was not too long ago received the federal
+[57:42] cross from the Chancellor and Germany, so the most prestigious recognition for a citizen.
+[57:50] We have examples of a kid in Tanzania who received a lot of laptop, fascinated by it,
+[57:57] learned how to program, and then enable education, and then go for a career on programming,
+[58:03] and now he has his own school teaching how to program, and meeting that community in programming,
+[58:10] so many things that you don't expect that happen, that are these people who had so much talent,
+[58:19] and then he put them in a good playground, and they don't like their potential, then they
+[58:23] mobilized the community, and make things happen. So things that had not expected, but they
+[58:31] surprised me in a nice way. I think your reply was literally excellent,
+[58:38] lovely, because I wanted to ask you about the philosophy or approach that you would recommend
+[58:48] anyone, and you are already phrasing in another way, like lessons that could apply to other
+[58:59] type of projects, and examples of creating impact, meaning fullness, for different people at
+[59:10] different stages, from different people to very experienced ones, and then the recognition
+[59:18] by the society, and at the end, I think the old recognition, at the end of the day,
+[59:25] when you go to bed and you feel good, there is nothing that pays that feeling, and being in such
+[59:32] type of community projects, at the end of the day, it pays off, and I think with that message,
+[59:41] Jordy, we should close, because we are on time, our students have classes, and I'm really sorry
+[59:50] for the YouTube streaming, I'm not sure what went wrong, but I will fix it, this recording,
+[59:57] I see the red button is going on, so I will upload and put it in YouTube as it was expected.
+[01:00:06] Thank you very much, I'm looking forward to meeting you in person,
+[01:00:11] and all else were, and catching up with the AI research, networking research, topics that we have
+[01:00:19] in common. Thank you very much, Cristian, and also to all the professors and students, and yeah,
+[01:00:26] stay in touch, thank you. Thank you, bye bye.
